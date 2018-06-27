@@ -1,0 +1,5 @@
+R2-Dbag is listening to what you're telling him and is willing to do what you're asking.
+
+Note: this challenge is the follow up of GongFou, which should be solved first.
+
+Note 2: This challenge was tested on Ubuntu 16.04 and works fine. It seems there are problems with some versions of nc though. Try option -q 1 (which fixes the problem in Debian or Kali, that use /bin/nc.traditional).

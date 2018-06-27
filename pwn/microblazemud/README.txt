@@ -1,0 +1,1 @@
+Time warp to the 90s using a modern microblaze softcore processor. Time to "set ansi", "ask" monsters how they are doing, get tough, "kill" them, and hack a MUD. A qemu image is provided for your viewing pleasure, and a tiny little code patch. Good luck!

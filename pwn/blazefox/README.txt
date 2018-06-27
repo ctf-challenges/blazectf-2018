@@ -1,0 +1,1 @@
+No one gave us a firefox 0day last year, so we'll make it a little easier for you this time.
